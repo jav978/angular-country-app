@@ -1,0 +1,17 @@
+{
+	"name": "Reporte Sencillo",
+	"data": [
+	  {
+		"type": "text",
+		"x": 20,
+		"y": 20,
+		"text": "Nombre: {{nombre}}"
+	  },
+	  {
+		"type": "text",
+		"x": 20,
+		"y": 40,
+		"text": "Edad: {{edad}}"
+	  }
+	]
+  }
